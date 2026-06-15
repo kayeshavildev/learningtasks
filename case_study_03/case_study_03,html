@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>www.usls.edu.ph.VILLANUEVA</title>
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <section class="header">
+            <nav>
+                <a href="index.html"><img src="logo.png"></a>
+                <di v class="nav-links">
+                    <ul>
+                        <li><a href="#home">HOME</a></li>
+                        <li><a href="#mission">MISSION</a></li>
+                        <li><a href="#vision">VISION</a></li>
+                        <li><a href="#contact">CONTACT</a></li>
+                        <li><a href="#about">ABOUT US</a></li>
+                        <li><a href="#gallery">GALLERY</a></li>
+                        </ul>
+                </div>
+            </nav>
+       
+        <div class="text-box">
+            <h1>Welcome to the </h1>
+            <h1>University of St. La Salle!</h1>
+            <p>The University of St. La Salle is dedicated to nurturing future leaders through quality 
+                education, strong values, and a commitment to excellence. Discover opportunities, 
+                grow your potential, and become part of a dynamic Lasallian community.</p>
+            <a href="" class="hero-btn">Visit us to know more</a>
+        </div>
+
+        </section>
+
+
+        <section class="mission" id="mission">
+            <h1>Mission</h1>
+            <p>
+               True to our Catholic tradition and inspired by St. John Baptist de La Salle,
+               University of St. La Salle forms persons of integrity and excellence,
+               committed to the shared mission of caring for peoples and the Earth.
+            </p>
+        </section>
+
+        
+        <section class="vision" id="vision">
+           <h1>Vision</h1>
+           <p>University of St. La Salle is a premier,<br>
+            responsive learning community, advancing human and Christian 
+            education, through research, innovation, and social 
+            engagement in Asia and the Pacific, in the service of humanity.
+           </p>
+        </section>
+
+        
+        
+        <section class="cta" id="contact">
+            <h1>
+                Enroll For Our Various Courses
+            </h1>
+            <a href="" class="hero-btn">ENROLL</a>
+        </section>
+        
+        
+        <section class="footer" id="about">
+            <h1>About Us</h1>
+            <p>
+            Welcome to the University of St. La Salle, a premier Lasallian educational institution
+            dedicated to providing quality education rooted in faith, service,
+            <br> and communion.   
+            Founded on the values of excellence, innovation, and social responsibility, USLS empowers
+            students to
+            <br>        
+            become competent professionals, responsible citizens, and transformative
+            leaders in their communities.
+            </p>
+            <div class="icons">
+                <i class="fa fa-facebook"></i>
+
+            <section class="gallery" id="gallery">
+            <h1>Gallery</h1>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <img src="gallery1.jpg" alt="USLS Campus">
+                </div>
+                <div class="gallery-item">
+                    <img src="gallery2.jpg" alt="USLS Students">
+                </div>
+                <div class="gallery-item">
+                    <img src="gallery3.jpg" alt="USLS Event">
+                </div>
+                <div class="gallery-item">
+                    <img src="gallery4.jpg" alt="USLS Building">
+                </div>
+            </div>
+        </section>
+
+            </div>
+        </section>  
+
+    </body>
+</html>
